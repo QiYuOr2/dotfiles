@@ -1,0 +1,12 @@
+{
+  "name": "dotfiles",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "backup": "scripts/backup.sh",
+    "push": "git add . && git commit -m 'update' && git push"
+  },
+  "keywords": [],
+  "author": "QiYuOr2",
+  "license": "ISC"
+}
